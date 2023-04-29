@@ -1,0 +1,15 @@
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\bin\Debug\net7.0\test.exe
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\bin\Debug\net7.0\test.deps.json
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\bin\Debug\net7.0\test.runtimeconfig.json
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\bin\Debug\net7.0\test.dll
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\bin\Debug\net7.0\test.pdb
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.csproj.AssemblyReference.cache
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.AssemblyInfoInputs.cache
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.AssemblyInfo.cs
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.csproj.CoreCompileInputs.cache
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.dll
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\refint\test.dll
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.pdb
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\test.genruntimeconfig.cache
+C:\Users\patar\OneDrive\Desktop\Exigy\Exigy test\test\obj\Debug\net7.0\ref\test.dll
